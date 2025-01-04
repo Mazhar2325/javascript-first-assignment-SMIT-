@@ -1,0 +1,1 @@
+This repository covers the fundamentals of JavaScript from Chapters 1 to 7, including an introduction to JavaScript, data types, alerts, and arithmetic operators. Ideal for beginners looking to understand core JavaScript concepts with examples.
